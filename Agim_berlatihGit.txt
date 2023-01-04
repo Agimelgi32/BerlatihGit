@@ -6,3 +6,5 @@ Deskripsi : saya suka programming karena seru dalam membangun suatu teknologi ba
 
 Komputer B : Mari belajar git lanjutan tentang distributed workflow
 Komputer A : Belajar git lanjutan untuk distributed workflow
+
+Komputer A : Saya sedang mensimulasikan distributed workflow git
