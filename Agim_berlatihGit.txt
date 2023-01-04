@@ -4,3 +4,4 @@ Stack : Backend
 Hobi : Eksplor hal baru dan Bernyanyi
 Deskripsi : saya suka programming karena seru dalam membangun suatu teknologi baru dan  memecahkan masalah(bug) serta selalu ada hal baru setiap waktunya
 
+Komputer B : Mari belajar git lanjutan tentang distributed workflow
