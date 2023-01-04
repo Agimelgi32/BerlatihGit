@@ -9,4 +9,4 @@ Komputer A : Belajar git lanjutan untuk distributed workflow
 
 
 Komputer B : Ini simulasi distributed workflow git
- 
+Komputer A : Saya sedang mensimulasikan distributed workflow git
