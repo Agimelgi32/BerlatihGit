@@ -1,3 +1,4 @@
+console.log('Hello Agim');
 console.log('Hello world');
 
 function counter() {
