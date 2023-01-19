@@ -1,7 +1,7 @@
-console.log('Hello world');
+console.log('Hello Agim');
 
 function counter() {
-  for (let i = 0; i <= 10; i++) {
+  for (let i = 0; i <= 20; i++) {
     console.log(i);
   }
 }
