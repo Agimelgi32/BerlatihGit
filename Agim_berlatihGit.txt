@@ -1,5 +1,6 @@
 Nama : Muhammad Ghaimnastia Algipari
 Umur : 20 Tahun
+Asal : Indramayu
 Stack : Backend
 Hobi : Eksplor hal baru dan Bernyanyi
 Deskripsi : saya suka programming karena seru dan menantang
